@@ -1,0 +1,11 @@
+### Get the root endpoint
+GET http://localhost:3000/
+Content-Type: application/json
+
+### Get the root endpoint
+GET http://localhost:3000/contacts
+Content-Type: application/json
+
+### Get the root endpoint
+GET http://localhost:3000/contacts/6828d30b94c52be4465755fe
+Content-Type: application/json
