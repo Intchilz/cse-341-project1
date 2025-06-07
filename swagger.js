@@ -5,7 +5,7 @@ const doc = {
         title: 'Contacts ApI',
         description: 'Contacts Api'
     },
-    host: 'localhost:3001',
+    host: 'https://cse-341-project1-qpfd.onrender.com',
     schemes: ['http', 'https']
 };
 
