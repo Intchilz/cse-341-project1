@@ -5,7 +5,7 @@
     "description": "Contacts Api",
     "version": "1.0.0"
   },
-  "host": "https://three40-starter-vqt2.onrender.com",
+  "host": "https://cse-341-project1-qpfd.onrender.com",
   "basePath": "/",
   "schemes": [
     "https"
